@@ -1,2 +1,2 @@
 # comp484-hw2
-(https://github.com/AlexRz101/comp484-hw2/deployments/github-pages)
+(https://alexrz101.github.io/comp484-hw2/)
